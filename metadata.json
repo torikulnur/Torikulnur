@@ -1,0 +1,6 @@
+{
+  "name": "T-Tech IPTV",
+  "description": "Premium gold and amber cyber engine IPTV single-page portal with custom video sizing, landscape rotation, auto-hide controls, and fallback data pipelines.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
